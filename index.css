@@ -98,8 +98,8 @@ nav{
 }
 /*Projects End*/
 
-/*Contacts Start*/
-#contacts {
+/*Tools Start*/
+#tools {
 
 	background: #FCF9EF;
 
@@ -122,6 +122,18 @@ nav{
 	border-radius: 12px;
 	font-size: 0.85rem;
 }
+/*Tools End*/
+
+
+/*Contacts Start*/
+#contacts {
+
+	background: #A3B19B;
+
+}
+
+#contactscaption {
+	color: #ffff;
 /*Contacts End*/
 
 footer{
