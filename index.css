@@ -4,23 +4,15 @@ nav{
 
 	box-sizing: border-box;
 
-
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
-	padding: 16px 64px;
-	gap: 476.93px;
-
-	left: 0px;
-	top: 0px;
 
 	background: #FCF9EF;
 	border-bottom: 1px solid rgba(130, 117, 106, 0.1);
 	backdrop-filter: blur(6px);
 	
-
-
 	background: linear-gradient(0deg, #FCF9EF, #FCF9EF), #FFFFFF;
 
 }
